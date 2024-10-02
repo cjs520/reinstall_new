@@ -3,7 +3,7 @@
 # shellcheck disable=SC2086
 
 set -eE
-confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
+confhome=https://raw.githubusercontent.com/cjs520/reinstall_new/main
 confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
 # confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
@@ -3549,7 +3549,7 @@ if ! { is_netboot_xyz || is_use_dd; }; then
         username="root"
     fi
     echo "Username: $username"
-    echo "Password: 123@@@"
+    echo "Password: Qaz123456789."
 fi
 
 if is_netboot_xyz; then
