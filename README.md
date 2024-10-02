@@ -61,7 +61,7 @@
 国外服务器：
 
 ```bash
-curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh || wget -O reinstall.sh $_
+curl -O https://raw.githubusercontent.com/cjs520/reinstall_new/main/reinstall.sh || wget -O reinstall.sh $_
 ```
 
 国内服务器：
